@@ -12,3 +12,8 @@
         background-color: rgb(229, 241, 229);
       }
 
+ 
+      img {
+        border-radius: 8px;
+        border: 2px solid gray;
+      }
