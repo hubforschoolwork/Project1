@@ -25,4 +25,16 @@ img {
     margin-top: 50px;
   }
 
- 
+
+
+  .col-sm-label {
+    margin-right: 10px;
+  }
+
+  
+  .col-sm-3 {
+    display: inline-block;
+    float: none;
+  }
+  
+  
