@@ -3,7 +3,7 @@
 
 
 
-- This website is designed as a convenient method for the end-user to book winery tours quickly and conveniently.
+- This website is designed for the wine enthusiast who likes to visit and tour wineries.  By using this website, the user can explore a variety of wineries, as listed on the website, and conveniently book a tour using a simple form.
 
 - Design is such that it contains very basic instructions making use of "quick and convenient" methodology.
 
@@ -27,10 +27,12 @@
 - www.formspree.io
 
 ## Future Improvements
-- Drop-down menu options on Navbar
-- Catered lunch options
-- Map showing additional wineries in the area along with major landmarks of interest
+- Add drop-down menu options to Navbar
+- Add catered lunch options to booking form
+- Add a map showing additional wineries in the area (not listed on offer) along with major landmarks of interest
 - Full functionality of booking form
+- Add e-commerce functionality to booking form
+
   
 
   
