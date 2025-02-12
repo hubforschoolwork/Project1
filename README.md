@@ -3,11 +3,11 @@
 
 
 
--This website is designed as a convenient method for the end-user to book winery tours quickly and conveniently.
+- This website is designed as a convenient method for the end-user to book winery tours quickly and conveniently.
 
--Design is such that it contains very basic instructions making use of "quick and convenient" methodology.
+- Design is such that it contains very basic instructions making use of "quick and convenient" methodology.
 
--User simply fills out required information in the form, clicks on the "submit" button and winery tour booking is complete.
+- User simply fills out required information in the form, clicks on the "submit" button and winery tour booking is complete.
 
 ## Technologies used:
 - .html
