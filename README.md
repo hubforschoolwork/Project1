@@ -10,20 +10,27 @@
 -User simply fills out required information in the form, clicks on the "submit" button and winery tour booking is complete.
 
 ## Technologies used:
-  -.html
-  -.css
-  -GitHub
-  -Visual Studio Code
-  -www.validator.w3.org
-  -www.draw.io
-  -Bootstrap
-  -www.formspree.io
+- .html
+
+- .css
+
+- GitHub
+
+- Visual Studio Code
+
+- www.validator.w3.org
+
+- www.draw.io
+
+- Bootstrap
+
+- www.formspree.io
 
 ## Future Improvements
-  -Drop-down menu options on Navbar
-  -Catered lunch options
-  -Map showing additional wineries in the area along with major landmarks of interest
-  -Full functionality of booking form
+- Drop-down menu options on Navbar
+- Catered lunch options
+- Map showing additional wineries in the area along with major landmarks of interest
+- Full functionality of booking form
   
 
   
